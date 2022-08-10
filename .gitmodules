@@ -1,0 +1,9 @@
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "Desktop/bsv-bcb/site/themes/hugo-theme-stack"]
+	path = Desktop/bsv-bcb/site/themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "Documents/atm/presentacion/themes/hugo-webslides"]
+	path = Documents/atm/presentacion/themes/hugo-webslides
+	url = https://github.com/rcjach/hugo-webslides.git
