@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>shortcodes - Etiqueta - LoveIt</title>
+        <link>https://example.com/tags/shortcodes/</link>
+        <description>shortcodes - Etiqueta - LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 03 Mar 2020 10:29:59 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
+    <title>主题文档 - typeit Shortcode</title>
+    <link>https://example.com/index.zh-cn/</link>
+    <pubDate>Tue, 03 Mar 2020 10:29:59 &#43;0800</pubDate>
+    <author>Mohamed</author>
+    <guid>https://example.com/index.zh-cn/</guid>
+    <description><![CDATA[<p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/" target="_blank" rel="noopener noreffer ">TypeIt</a> 库提供了打字动画.</p>]]></description>
+</item>
+</channel>
+</rss>

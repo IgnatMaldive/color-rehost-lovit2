@@ -7,3 +7,6 @@
 [submodule "Documents/atm/presentacion/themes/hugo-webslides"]
 	path = Documents/atm/presentacion/themes/hugo-webslides
 	url = https://github.com/rcjach/hugo-webslides.git
+[submodule "Documents/k1/k2/themes/holy"]
+	path = Documents/k1/k2/themes/holy
+	url = https://github.com/serkodev/holy.git

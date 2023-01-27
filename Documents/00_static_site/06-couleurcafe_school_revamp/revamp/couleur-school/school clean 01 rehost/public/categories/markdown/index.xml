@@ -1,0 +1,34 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown - Categoría - LoveIt</title>
+        <link>https://example.com/categories/markdown/</link>
+        <description>Markdown - Categoría - LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Contacto</title>
+    <link>https://example.com/contact/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Mohamed</author>
+    <guid>https://example.com/contact/</guid>
+    <description><![CDATA[This article shows the basic Markdown syntax and format.]]></description>
+</item>
+<item>
+    <title>Sistema de franquiciado</title>
+    <link>https://example.com/franchise/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Mohamed</author>
+    <guid>https://example.com/franchise/</guid>
+    <description><![CDATA[<i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i>&nbsp;Franquicias Colour Café lo tienen todo, elegante y preparado. Són el complemento a las nuevas escuelas de formación 
+ Hugo Theme LoveItHugo Theme LoveIt
+" Hugo Theme LoveIt 
+Condiciones Que incluye la inversión Derecho de uso de marca. Formación inicial. Manuales operativos. Exclusividad de zona Maquinaria, mobiliario, rótulos, equipamiento informático, etc. Posicionamiento web en Google y listado de interesados (leads). Web propia y correos electrónicos.]]></description>
+</item>
+<item>
+    <title>Emoji 支持</title>
+    <link>https://example.com/index.zh-cn/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Mohamed</author>
+    <guid>https://example.com/index.zh-cn/</guid>
+    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
+</item>
+</channel>
+</rss>
